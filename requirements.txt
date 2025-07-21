@@ -1,6 +1,5 @@
 streamlit
 google-generativeai
-pyttsx3
 SpeechRecognition
 deep-translator
-pyaudio
+gTTS
